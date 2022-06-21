@@ -42,20 +42,35 @@ Le sostituzioni seguono un pattern così definito:
       <td>La regola precedente viene anche usata per costrutti più complessi</td>
     </tr>
     <tr>
+      <td>ee</td>
+      <td>è</td>
+      <td>e per le lettere accentate</td>
+    </tr>
+    <tr>
       <td>cee</td>
       <td>c'è</td>
+      <td>Ulteriore esempio</td>
+    </tr>
+    <tr>
+      <td>dx</td>
+      <td>Destra</td>
+      <td>Sono incluse anche le abbreviazioni comuni</td>
+    </tr>
+    <tr>
+      <td>sx</td>
+      <td>Sinistra</td>
       <td>Ulteriore esempio</td>
     </tr>
   </tbody>
 </table>
 
 # Come posso contribuire?
-Il file viene aggiornato ogni volta che una nuova coppia viene aggiunta. Qui sopra puoi trovare le coppie già incluse, divise alfabeticamente.
+Il file viene aggiornato ogni volta che una nuova coppia viene aggiunta. [Qui sopra](https://github.com/Astisme/dizionario-rimpiazza-testo/tree/main/lista-alfabetica) puoi trovare le coppie già incluse, divise alfabeticamente.
 
 Consulta il dizionario e aggiungi altre coppie seguendo le regole illustrate tramite una Pull Request.
 
 # Quali sono gli sviluppi progettati?
 - Ampliamento del dizionario
 - Creazione di un dizionario dei simboli
-  - esempio: tilde - ~
+  - esempio (già incluso): tilde - ~
 - Espansione del dizionario ad altre lingue

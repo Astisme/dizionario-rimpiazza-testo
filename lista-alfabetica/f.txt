@@ -1,0 +1,30 @@
+<dict>
+	<key>phrase</key>
+	<string>facilità</string>
+	<key>shortcut</key>
+	<string>facilita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>farò</string>
+	<key>shortcut</key>
+	<string>faroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>felicità</string>
+	<key>shortcut</key>
+	<string>felicita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>finchè</string>
+	<key>shortcut</key>
+	<string>finche</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>finirò</string>
+	<key>shortcut</key>
+	<string>finiroo</string>
+</dict>

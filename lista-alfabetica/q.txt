@@ -1,0 +1,6 @@
+<dict>
+	<key>phrase</key>
+	<string>qualità</string>
+	<key>shortcut</key>
+	<string>qualita</string>
+</dict>

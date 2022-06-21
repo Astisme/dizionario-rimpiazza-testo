@@ -1,0 +1,24 @@
+<dict>
+	<key>phrase</key>
+	<string>già</string>
+	<key>shortcut</key>
+	<string>gia</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>giovedì</string>
+	<key>shortcut</key>
+	<string>giovedi</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>giù</string>
+	<key>shortcut</key>
+	<string>giu</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>guardò </string>
+	<key>shortcut</key>
+	<string>guardoo</string>
+</dict>

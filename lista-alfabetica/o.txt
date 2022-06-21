@@ -1,0 +1,12 @@
+<dict>
+	<key>phrase</key>
+	<string>oggettività</string>
+	<key>shortcut</key>
+	<string>oggettivita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>ò</string>
+	<key>shortcut</key>
+	<string>oo</string>
+</dict>

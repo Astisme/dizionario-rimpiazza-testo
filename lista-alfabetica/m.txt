@@ -1,0 +1,36 @@
+<dict>
+	<key>phrase</key>
+	<string>martedì</string>
+	<key>shortcut</key>
+	<string>martedi</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>maturità</string>
+	<key>shortcut</key>
+	<string>maturita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>mercoledì</string>
+	<key>shortcut</key>
+	<string>mercoledi</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>metà</string>
+	<key>shortcut</key>
+	<string>metaa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>modernità</string>
+	<key>shortcut</key>
+	<string>modernita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>mostrò</string>
+	<key>shortcut</key>
+	<string>mostroo</string>
+</dict>

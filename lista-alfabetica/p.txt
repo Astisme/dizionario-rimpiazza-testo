@@ -1,0 +1,78 @@
+<dict>
+	<key>phrase</key>
+	<string>parità</string>
+	<key>shortcut</key>
+	<string>parita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>partirò</string>
+	<key>shortcut</key>
+	<string>partiro</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>perché</string>
+	<key>shortcut</key>
+	<string>perche</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>perché</string>
+	<key>shortcut</key>
+	<string>perchee</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>però</string>
+	<key>shortcut</key>
+	<string>peroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>perseguirò</string>
+	<key>shortcut</key>
+	<string>perseguiroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>più</string>
+	<key>shortcut</key>
+	<string>piu</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>poiché</string>
+	<key>shortcut</key>
+	<string>poiche</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>possibilità</string>
+	<key>shortcut</key>
+	<string>possibilitaa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>potè</string>
+	<key>shortcut</key>
+	<string>pote</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>professionalità</string>
+	<key>shortcut</key>
+	<string>professionalita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>proprietà</string>
+	<key>shortcut</key>
+	<string>proprieta</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>può</string>
+	<key>shortcut</key>
+	<string>puo</string>
+</dict>

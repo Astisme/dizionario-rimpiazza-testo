@@ -1,0 +1,42 @@
+<dict>
+	<key>phrase</key>
+	<string>igienicità</string>
+	<key>shortcut</key>
+	<string>igienicita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>ì</string>
+	<key>shortcut</key>
+	<string>ii</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>imparzialità</string>
+	<key>shortcut</key>
+	<string>imparzialita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>incapacità</string>
+	<key>shortcut</key>
+	<string>incapacita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>inizierò</string>
+	<key>shortcut</key>
+	<string>iniziero</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>iniziò</string>
+	<key>shortcut</key>
+	<string>inizioo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>invitò</string>
+	<key>shortcut</key>
+	<string>invitoo</string>
+</dict>

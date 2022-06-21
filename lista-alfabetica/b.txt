@@ -1,0 +1,6 @@
+<dict>
+	<key>phrase</key>
+	<string>biodiversità</string>
+	<key>shortcut</key>
+	<string>biodiversitaa</string>
+</dict>

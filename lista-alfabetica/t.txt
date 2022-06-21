@@ -1,0 +1,24 @@
+<dict>
+	<key>phrase</key>
+	<string>terrà</string>
+	<key>shortcut</key>
+	<string>terraa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>~</string>
+	<key>shortcut</key>
+	<string>tilde</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>tornerò</string>
+	<key>shortcut</key>
+	<string>tornero</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>trovò</string>
+	<key>shortcut</key>
+	<string>trovoo</string>
+</dict>

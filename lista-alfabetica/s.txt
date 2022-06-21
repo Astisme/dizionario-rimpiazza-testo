@@ -1,0 +1,66 @@
+<dict>
+	<key>phrase</key>
+	<string>sarà</string>
+	<key>shortcut</key>
+	<string>saraa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>seguì</string>
+	<key>shortcut</key>
+	<string>seguii</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>seguirò</string>
+	<key>shortcut</key>
+	<string>seguiroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>sì</string>
+	<key>shortcut</key>
+	<string>sii</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>sincronizzerà</string>
+	<key>shortcut</key>
+	<string>sincronizzera</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>società</string>
+	<key>shortcut</key>
+	<string>societa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>starò</string>
+	<key>shortcut</key>
+	<string>staroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>studiò</string>
+	<key>shortcut</key>
+	<string>studioo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>sussidiarietà</string>
+	<key>shortcut</key>
+	<string>sussidiarieta</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>sviluppò</string>
+	<key>shortcut</key>
+	<string>sviluppoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>sinistra</string>
+	<key>shortcut</key>
+	<string>sx</string>
+</dict>

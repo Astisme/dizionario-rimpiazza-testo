@@ -1,0 +1,18 @@
+<dict>
+	<key>phrase</key>
+	<string>nazionalità</string>
+	<key>shortcut</key>
+	<string>nazionalita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>necessità</string>
+	<key>shortcut</key>
+	<string>necessitaa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>nè</string>
+	<key>shortcut</key>
+	<string>nee</string>
+</dict>

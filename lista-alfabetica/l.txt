@@ -1,0 +1,24 @@
+<dict>
+	<key>phrase</key>
+	<string>là</string>
+	<key>shortcut</key>
+	<string>laa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>lasciò</string>
+	<key>shortcut</key>
+	<string>lascioo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>libertà</string>
+	<key>shortcut</key>
+	<string>liberta</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>lunedì</string>
+	<key>shortcut</key>
+	<string>lunedi</string>
+</dict>

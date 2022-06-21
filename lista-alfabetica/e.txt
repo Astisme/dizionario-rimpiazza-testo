@@ -1,0 +1,18 @@
+<dict>
+	<key>phrase</key>
+	<string>è</string>
+	<key>shortcut</key>
+	<string>ee</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>entrò</string>
+	<key>shortcut</key>
+	<string>entroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>età</string>
+	<key>shortcut</key>
+	<string>eta</string>
+</dict>

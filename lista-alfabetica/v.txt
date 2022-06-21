@@ -1,0 +1,36 @@
+<dict>
+	<key>phrase</key>
+	<string>vagò</string>
+	<key>shortcut</key>
+	<string>vagoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>velocità</string>
+	<key>shortcut</key>
+	<string>velocita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>venerdì</string>
+	<key>shortcut</key>
+	<string>venerdi</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>verità</string>
+	<key>shortcut</key>
+	<string>verita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>verrà</string>
+	<key>shortcut</key>
+	<string>verra</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>volontà</string>
+	<key>shortcut</key>
+	<string>volonta</string>
+</dict>

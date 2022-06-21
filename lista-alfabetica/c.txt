@@ -1,0 +1,54 @@
+<dict>
+	<key>phrase</key>
+	<string>caffè</string>
+	<key>shortcut</key>
+	<string>caffe</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>capacità</string>
+	<key>shortcut</key>
+	<string>capacita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>c'è</string>
+	<key>shortcut</key>
+	<string>cee</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>ciò</string>
+	<key>shortcut</key>
+	<string>cio</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>cioè</string>
+	<key>shortcut</key>
+	<string>cioe</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>civiltà</string>
+	<key>shortcut</key>
+	<string>civilta</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>comunità</string>
+	<key>shortcut</key>
+	<string>comunita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>cos'è</string>
+	<key>shortcut</key>
+	<string>cosee</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>così</string>
+	<key>shortcut</key>
+	<string>cosii</string>
+</dict>

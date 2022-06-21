@@ -1,0 +1,30 @@
+<dict>
+	<key>phrase</key>
+	<string>realtà</string>
+	<key>shortcut</key>
+	<string>realta</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>relatività</string>
+	<key>shortcut</key>
+	<string>relativita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>rilasciò</string>
+	<key>shortcut</key>
+	<string>rilascioo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>rimarrò</string>
+	<key>shortcut</key>
+	<string>rimarroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>riuscirà</string>
+	<key>shortcut</key>
+	<string>riusciraa</string>
+</dict>

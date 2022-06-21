@@ -1,0 +1,36 @@
+<dict>
+	<key>phrase</key>
+	<string>à</string>
+	<key>shortcut</key>
+	<string>aa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>abbandonò</string>
+	<key>shortcut</key>
+	<string>abbandonoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>andrà</string>
+	<key>shortcut</key>
+	<string>andraa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>arrivò</string>
+	<key>shortcut</key>
+	<string>arrivoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>attività</string>
+	<key>shortcut</key>
+	<string>attivita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>avrà</string>
+	<key>shortcut</key>
+	<string>avra</string>
+</dict>

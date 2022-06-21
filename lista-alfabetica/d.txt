@@ -1,0 +1,42 @@
+<dict>
+	<key>phrase</key>
+	<string>dà</string>
+	<key>shortcut</key>
+	<string>daa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>dichiarò</string>
+	<key>shortcut</key>
+	<string>dichiaroo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>difficoltà</string>
+	<key>shortcut</key>
+	<string>difficolta</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>disonestà</string>
+	<key>shortcut</key>
+	<string>disonestaa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>dispiacerà</string>
+	<key>shortcut</key>
+	<string>dispiaceraa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>diventò</string>
+	<key>shortcut</key>
+	<string>diventoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>destra</string>
+	<key>shortcut</key>
+	<string>dx</string>
+</dict>

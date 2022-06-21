@@ -1,0 +1,24 @@
+<dict>
+	<key>phrase</key>
+	<string>unità</string>
+	<key>shortcut</key>
+	<string>unitaa</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>università</string>
+	<key>shortcut</key>
+	<string>universita</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>utilizzò</string>
+	<key>shortcut</key>
+	<string>utilizzoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>ù</string>
+	<key>shortcut</key>
+	<string>uu</string>
+</dict>

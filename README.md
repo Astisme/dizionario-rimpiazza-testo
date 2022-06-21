@@ -1,5 +1,5 @@
 # dizionario-rimpiazza-testo
-Per iniziare, scarica lo zip **lista.zip** contenente la lista di sostituzioni e decomprimilo.
+Per iniziare, scarica lo zip [**list.zip**](https://github.com/Astisme/dizionario-rimpiazza-testo/blob/main/list.zip) contenente la lista di sostituzioni e decomprimilo.
 
 Visita [la wiki](https://github.com/Astisme/dizionario-rimpiazza-testo/wiki) per scoprire come utilizzare il file scaricato.
 

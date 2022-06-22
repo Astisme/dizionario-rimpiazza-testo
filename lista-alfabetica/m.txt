@@ -12,6 +12,12 @@
 </dict>
 <dict>
 	<key>phrase</key>
+	<string>mentalità</string>
+	<key>shortcut</key>
+	<string>mentalita</string>
+</dict>
+<dict>
+	<key>phrase</key>
 	<string>mercoledì</string>
 	<key>shortcut</key>
 	<string>mercoledi</string>

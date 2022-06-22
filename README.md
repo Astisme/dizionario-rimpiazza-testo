@@ -1,7 +1,5 @@
 # dizionario-rimpiazza-testo
-Per iniziare, scarica la lista comprensiva **lista.plist** contenente la lista di sostituzioni e decomprimilo.
-
-Visita [la wiki](https://github.com/Astisme/dizionario-rimpiazza-testo/wiki) per scoprire come utilizzare il file scaricato.
+Per iniziare, scarica la lista comprensiva **lista.plist** e visita [la wiki](https://github.com/Astisme/dizionario-rimpiazza-testo/wiki) per scoprire come utilizzare il file scaricato.
 
 # A cosa serve?
 Abbiamo creato delle coppie [parola da scrivere - parola da rimpiazzare] che ti permetteranno di utilizzare una tastiera senza accenti e di aggiungere automaticamente gli accenti.

@@ -6,6 +6,11 @@
 </dict>
 <dict>
 	<key>phrase</key>
+	<string>sarò</string>
+	<key>shortcut</key>
+	<string>saro</string>
+<dict>
+	<key>phrase</key>
 	<string>seguì</string>
 	<key>shortcut</key>
 	<string>seguii</string>
@@ -57,6 +62,18 @@
 	<string>sviluppò</string>
 	<key>shortcut</key>
 	<string>sviluppoo</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>svolgerà</string>
+	<key>shortcut</key>
+	<string>svolgera</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>svolgerò</string>
+	<key>shortcut</key>
+	<string>svolgero</string>
 </dict>
 <dict>
 	<key>phrase</key>

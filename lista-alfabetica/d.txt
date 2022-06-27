@@ -36,6 +36,18 @@
 </dict>
 <dict>
 	<key>phrase</key>
+	<string>dovrà</string>
+	<key>shortcut</key>
+	<string>dovra</string>
+</dict>
+<dict>
+	<key>phrase</key>
+	<string>dovrò</string>
+	<key>shortcut</key>
+	<string>dovro</string>
+</dict>
+<dict>
+	<key>phrase</key>
 	<string>destra</string>
 	<key>shortcut</key>
 	<string>dx</string>

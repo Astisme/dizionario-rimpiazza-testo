@@ -50,7 +50,7 @@
 	<key>phrase</key>
 	<string>possibilità</string>
 	<key>shortcut</key>
-	<string>possibilitaa</string>
+	<string>possibilita</string>
 </dict>
 <dict>
 	<key>phrase</key>

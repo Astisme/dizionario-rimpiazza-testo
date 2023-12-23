@@ -30,6 +30,12 @@
 </dict>
 <dict>
 	<key>phrase</key>
+	<string>disponibilità</string>
+	<key>shortcut</key>
+	<string>disponibilita</string>
+</dict>
+<dict>
+	<key>phrase</key>
 	<string>diventò</string>
 	<key>shortcut</key>
 	<string>diventoo</string>

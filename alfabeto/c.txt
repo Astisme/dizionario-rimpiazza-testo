@@ -18,6 +18,12 @@
 </dict>
 <dict>
 	<key>phrase</key>
+	<string>chissà</string>
+	<key>shortcut</key>
+	<string>chissa</string>
+</dict>
+<dict>
+	<key>phrase</key>
 	<string>ciò</string>
 	<key>shortcut</key>
 	<string>cio</string>

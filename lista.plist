@@ -62,6 +62,12 @@
 		<key>shortcut</key>
 		<string>cee</string>
 	</dict>
+  <dict>
+    <key>phrase</key>
+    <string>chissà</string>
+    <key>shortcut</key>
+    <string>chissa</string>
+  </dict>
 	<dict>
 		<key>phrase</key>
 		<string>ciò</string>
@@ -128,6 +134,12 @@
 		<key>shortcut</key>
 		<string>dispiaceraa</string>
 	</dict>
+  <dict>
+    <key>phrase</key>
+    <string>disponibilità</string>
+    <key>shortcut</key>
+    <string>disponibilita</string>
+  </dict>
 	<dict>
 		<key>phrase</key>
 		<string>diventò</string>
@@ -176,6 +188,12 @@
 		<key>shortcut</key>
 		<string>facilita</string>
 	</dict>
+  <dict>
+    <key>phrase</key>
+    <string>farà</string>
+    <key>shortcut</key>
+    <string>fara</string>
+  </dict>
 	<dict>
 		<key>phrase</key>
 		<string>farò</string>
@@ -414,7 +432,7 @@
 		<key>phrase</key>
 		<string>possibilità</string>
 		<key>shortcut</key>
-		<string>possibilitaa</string>
+		<string>possibilita</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
